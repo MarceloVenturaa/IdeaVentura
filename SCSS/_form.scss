@@ -1,0 +1,24 @@
+section{
+    h3{
+        form{
+            display: grid;
+            padding: auto;
+        }
+    }
+}
+
+.form{
+    padding: auto;
+}
+
+.form__option{
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    display: block;
+    margin: 1rem;
+}
+
+.form__option--blue{
+    color: $blue-form
+}

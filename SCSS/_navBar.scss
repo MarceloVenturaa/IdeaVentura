@@ -1,0 +1,15 @@
+nav{
+    img{
+        width: $w-10;
+    }
+    ul{
+        li{
+            a{
+                color:$primary;
+                &:hover{
+                    color: $secondary;
+                }
+                }
+                }
+            }
+}
